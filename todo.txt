@@ -1,1 +1,1 @@
-https://nextjs.org/learn/dashboard-app/mutating-data
+https://nextjs.org/learn/dashboard-app/error-handling
